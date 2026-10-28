@@ -1,0 +1,2 @@
+# gympax-assets
+Media
